@@ -1,0 +1,10 @@
+
+
+for compile:
+javac -d ./ MainGame.java -Xlint:unchecked
+
+to make into  a jar file: 
+jar cmf manifest.mf snake-game.jar ./
+
+to check
+jar tf snake-game.jar
