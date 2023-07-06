@@ -26,4 +26,4 @@ The second line is optional, and simply allows for a check that the necessary fi
 ## Contributing
 
 Pull requests are always welcome.
-For major changes (if any exist, of course) however, please open an issue first.
+For major changes (if any exist) however, please open an issue first.
